@@ -1,4 +1,4 @@
-# califonia-houseprice-prediction
+# California-houseprice-prediction
 
 Project Description: 
 This project is a Machine Learning-based web application that predicts the median house price in California based on various input features such as average number of rooms, population, and location-related attributes. 
